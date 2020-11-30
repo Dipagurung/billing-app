@@ -1,2 +1,2 @@
 <?php
-echo "Edit file";
+echo "Delete file";
